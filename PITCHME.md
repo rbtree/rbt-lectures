@@ -1,3 +1,4 @@
 #HSLIDE
 
-## Welcome to RBT Lectures
+## Milos Radic - Github
+Friday, 17 Mar 2017
