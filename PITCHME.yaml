@@ -1,4 +1,4 @@
 background : http://japan-magazine.jnto.go.jp/jnto2wm/wp-content/uploads/1608_special_TOTO_main.jpg
-background-size : auto
+background-size : cover
 slide-number: true
 highlight : monokai
