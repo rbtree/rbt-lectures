@@ -1,4 +1,4 @@
-### Git
+# Git
 Date: **17 Mar 2017**
 
 Presenter: **Milos Radic**
