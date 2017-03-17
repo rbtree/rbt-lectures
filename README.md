@@ -7,6 +7,8 @@ Date: **24 Mar 2017**
 
 Presenters: **Milos Milosevic & Aleksandar Mirilovic**
 
+---
+
 ## Previous
 
 ### Git
