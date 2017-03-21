@@ -1,3 +1,5 @@
 #HSLIDE
 
-## Welcome to RBT Lectures
+## Welcome to Docker
+
+Mixa i Sale
