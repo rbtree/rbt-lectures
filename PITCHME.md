@@ -49,6 +49,8 @@ It is all about control.
 
 Isolated - separated from other persons or things; alone; solitary.
 
++++
+
 ## So, what are software contaners?
 
 A way to tell operating system to start a process with access to only fake resources totally separated from the rest of the system and to limit its usage of real system resources (number of CPU cores, amount of memory, storage size, storage and network read/write speed).
