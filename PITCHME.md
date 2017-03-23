@@ -168,6 +168,11 @@ docker run --name {my-web-app-0} -d {aws_account_id}.dkr.ecr.{region}.amazonaws.
 - This is a universal deployment method for any app - it works with any language/framework.
 - Docker containers are supported by all IaaS and PaaS providers (AWS, MS, GCP...)
 - Replicate production env on development machine (Docker Compose). And you can do this for many different projects.
+
+---
+
+### Why is this important?
+
 - Build highly available and scalable systems with container clastering solutions (Docker Swarm, Kubernetes, AWS ECS)
 - Security - everything is isolated so you can run it without worrying about the rest of the system. Containers make it possible to build:
   - CI systems
