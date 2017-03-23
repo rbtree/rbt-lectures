@@ -87,7 +87,7 @@ Containers are about running a **single process**.
 
 - **There are no performance losses when running a process inside a container**
 - Containers can be started in seconds
-- Contaner size is mesured in MBs
+- Contaner size is measured in MBs
 - You can run many (hundreds) containers on a single machine
 
 ---
