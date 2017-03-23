@@ -134,6 +134,10 @@ An image can be build by the cli and delivered to an engine directly through the
 
 There are many docker repositories: Docker Hub, Quay, AWS ECR, GCP CR or build your own.
 
+---
+
+### How to deliver an image to an engine?
+
 Push an image to a repo
 ```
 $ docker images
@@ -147,11 +151,23 @@ $ docker push {aws_account_id}.dkr.ecr.{region}.amazonaws.com/{my-web-app}
 ```
 ---
 
+Pull an image
+```
+$ docker pull {aws_account_id}.dkr.ecr.{region}.amazonaws.com/{my-web-app}
+```
+
+Create a contaner to run the app
+```
+docker run --name {my-web-app-0} -d {aws_account_id}.dkr.ecr.{region}.amazonaws.com/{my-web-app}
+```
+
+---
+
 ### Why is this important?
 
 - This is a universal deployment method for any app - it works with any language/framework.
 - Docker containers are supported by all IaaS and PaaS providers (AWS, MS, GCP...)
-- Replicate production env on development machine (Docker Compose)
+- Replicate production env on development machine (Docker Compose). And you can do this for many different projects.
 - Build highly available and scalable systems with container clastering solutions (Docker Swarm, Kubernetes, AWS ECS)
 - Security - everything is isolated so you can run it without worrying about the rest of the system. Containers make it possible to build:
   - CI systems
