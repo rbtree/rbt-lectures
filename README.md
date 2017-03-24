@@ -1,6 +1,6 @@
-# Docker
-Date: **24 Mar 2017**
+# Command Line Interface
+Date: **31 Mar 2017**
 
-Presenters: **Milos Milosevic & Aleksandar Mirilovic**
+Presenters: **Milos Micic**
 
-[Presentation](https://gitpitch.com/rbtree/rbt-lectures/2017-03-mmam-docker)
+[Presentation](https://gitpitch.com/rbtree/rbt-lectures/2017-03-mm-cli)
