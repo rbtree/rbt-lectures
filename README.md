@@ -2,14 +2,23 @@
 
 ## Upcoming
 
+### CLI
+Date: **31 Mar 2017**
+
+Presenters: **Milos Micic**
+
+---
+
+## Previous
+
 ### Docker
 Date: **24 Mar 2017**
 
 Presenters: **Milos Milosevic & Aleksandar Mirilovic**
 
----
+People: 21
 
-## Previous
+[Presentation](https://gitpitch.com/rbtree/rbt-lectures/2017-03-mmam-docker)
 
 ### Git
 Date: **17 Mar 2017**
