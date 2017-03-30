@@ -1,3 +1,139 @@
-## Welcome to Command Line Interface
+# Introduction to using the command line interface terminal
 
-Micke
+## Cheat sheet
+
+https://duckduckgo.com/?q=bash+cheat+sheet
+
+## Shortcuts
+
+C-c 	Interrupt running process
+C-z 	Suspend running process
+C-d 	Exit from current shell
+C-l 	Clear Screen
+C-a 	Move at the start of the line
+C-e 	Move at the end of the line
+M-← 	Move backward by a word
+M-b 	Move backward by a word (alternative)
+M-→ 	Move forward by a word
+M-f 	Move forward by a word (alternative)
+C-x, C-x 	Move cursor between start of line and current position
+
+--
+
+M-t 	Swap the last two words before the cursor
+C-t 	Swap the last two characters before the cursor
+M-Backspace 	Delete a word (backward)
+C-w 	Delete a word (backward) (alternative)
+M-d 	Delete a word (forward)
+C-h 	Delete one character backward (same as Backspace)
+C-k 	Kill from cursor to the end of line
+C-u 	Kill from cursor to the beginning of line
+M-u 	Upper-case from cursor to the end of word
+M-l 	Lower-case from cursor to the end of word
+M-c 	Capitalize word (from cursor position)
+
+--
+
+C-y 	Paste
+C-_ 	Undo
+M-r 	Revert to original command (before editing it)
+C-p 	Get previous command
+C-n 	Get next command
+C-r, <pattern> 	Search previous command containing <pattern>
+M-. 	Insert last argument of last command
+M-<N>, C-M-y 	Get Nth argument of previous command (N=0 gives the command)
+M-< 	Insert oldest command from history
+C-x, C-v 	Show bash version
+C-x, C-e 	Edit current line with ${EDITOR}
+
+## Getting help
+
+- man
+- apropos     <!-- .element: class="fragment" -->
+- help        <!-- .element: class="fragment" -->
+- info        <!-- .element: class="fragment" -->
+- google.com  <!-- .element: class="fragment" -->
+
+++
+
+### man
+
+Reference manuals
+
+<table>
+  <tr>
+    <td>**man** [*section*] *page*</td>
+    <td></td>
+  <tr>
+  <tr>
+    <td>**man -k** *regexp*</td>
+    <td></td>
+  </tr>
+</table>
+
+++
+
+### apropos
+
+Search the manual page names and descriptions
+
+**apropos** *regexp*
+
+++
+
+### help
+
+++
+
+### info
+
+## Navigation
+
+- pwd
+- ls     <!-- .element: class="fragment" -->
+- cd     <!-- .element: class="fragment" -->
+- pushd/popd     <!-- .element: class="fragment" -->
+
+++
+
+### pwd
+
+++
+
+### ls
+
+++
+
+### cd
+
+- `cd ~`
+- `cd -`
+
+### pushd/popd
+
+## Wildcards
+
+- *
+- ?     <!-- .element: class="fragment" -->
+- {}     <!-- .element: class="fragment" -->
+
+++
+
+### *
+
+++
+
+### ?
+
+++
+
+### {}
+
+## Piping and Redirection
+
+- |
+- >
+- >>
+- 1> 2> &> 1>&2
+
+--
