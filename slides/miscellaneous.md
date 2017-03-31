@@ -44,7 +44,7 @@ Search for files in a directory hierarchy
 #### Actons
 - **-delete**
 - **-exec** *command {} ;*
-- **-execdir** *command {} ;* - GNU only
+- **-execdir** *command {} ;*
 - **-ok** *command {} ;*
 - **-okdir** *command {} ;*
 - **-printf** *format*

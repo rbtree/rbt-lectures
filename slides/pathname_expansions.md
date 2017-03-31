@@ -1,7 +1,7 @@
 ### Pathname expansion
 
 - \* - Matches  any  string, including the null string.
-- \? - Matches any single character     <!-- .element: class="fragment" -->
+- ? - Matches any single character     <!-- .element: class="fragment" -->
 - \[\] - Matches any one of the enclosed characters   <!-- .element: class="fragment" -->
 
 +++
