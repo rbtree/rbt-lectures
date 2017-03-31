@@ -12,7 +12,7 @@
 - M-f 	Move forward by a word (alternative)
 - C-x, C-x 	Move cursor between start of line and current position
 
---
++++
 
 - M-t 	Swap the last two words before the cursor
 - C-t 	Swap the last two characters before the cursor
@@ -26,7 +26,7 @@
 - M-l 	Lower-case from cursor to the end of word
 - M-c 	Capitalize word (from cursor position)
 
---
++++
 
 - C-y 	Paste
 - C-_ 	Undo
