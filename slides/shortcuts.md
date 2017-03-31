@@ -1,5 +1,3 @@
-### Shortcuts
-
 - C-c 	Interrupt running process
 - C-z 	Suspend running process
 - C-d 	Exit from current shell

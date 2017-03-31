@@ -15,7 +15,7 @@ System's manual pager
 <table>
   <tr>
     <td>**man** [*section*] *page*</td>
-    <td>Display the manual page for the item ___page___</td>
+    <td>Display the manual page for the item *page*</td>
   <tr>
   <tr>
     <td>**man -k** *regexp*</td>
@@ -24,8 +24,6 @@ System's manual pager
 </table>
 
 +++
-
-##### sections
 
 <table>
   <tr>
