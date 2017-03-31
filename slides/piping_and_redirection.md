@@ -7,7 +7,7 @@
 - cmd &>> file
 - cmd m>&n
 
-++
++++
 
 ```
 $ echo 'hello world!' | awk '{ print toupper($0); }'

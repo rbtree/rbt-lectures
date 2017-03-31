@@ -6,7 +6,7 @@
 - info        <!-- .element: class="fragment" -->
 - google.com  <!-- .element: class="fragment" -->
 
-++
++++
 
 #### man
 
@@ -23,7 +23,7 @@ System's manual pager
   </tr>
 </table>
 
-++
++++
 
 ##### sections
 
@@ -66,7 +66,7 @@ System's manual pager
   </tr>
 </table>
 
-++
++++
 
 #### apropos
 

@@ -10,7 +10,6 @@
 - M-b 	Move backward by a word (alternative)
 - M-→ 	Move forward by a word
 - M-f 	Move forward by a word (alternative)
-- C-x, C-x 	Move cursor between start of line and current position
 
 +++
 
@@ -38,4 +37,4 @@
 - M-<N>, C-M-y 	Get Nth argument of previous command (N=0 gives the command)
 - M-< 	Insert oldest command from history
 - C-x, C-v 	Show bash version
-- C-x, C-e 	Edit current line with ${EDITOR}
+- C-x, C-x 	Move cursor between start of line and current position

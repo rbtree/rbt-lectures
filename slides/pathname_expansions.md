@@ -4,7 +4,7 @@
 - ? - Matches any single character     <!-- .element: class="fragment" -->
 - [] - Matches any one of the enclosed characters   <!-- .element: class="fragment" -->
 
-++
++++
 
 ```
 $ ls
@@ -22,6 +22,8 @@ aa ab ac ad ae af
 $ ls a[b-e]
 ab ac ad ae
 ```
+
++++
 
 Parameter expansion:
 ```

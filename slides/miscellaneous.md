@@ -5,6 +5,8 @@ Execute a command as another user
 `$ sudo apt upgrade`
 `$ sudo -u user ls /Users/user/`
 
++++
+
 ## grep
 
 Print lines matching a pattern
@@ -16,9 +18,13 @@ line2
 line10
 ```
 
++++
+
 ## find
 
 Search for files in a directory hierarchy
+
++++
 
 #### Tests
 - **-name** *pattern* - Base of file name (the path with the leading directories removed) matches shell pattern *pattern*.
@@ -28,6 +34,8 @@ Search for files in a directory hierarchy
 - **-ipath** *pattern* - Like **-path**, but the match is case insensitive.
 - **-regex** *pattern* - File  name  matches  regular  expression  *pattern*
 - **-iregex** *pattern* - Like **-regex**, but the match is case insensitive.
+
++++
 
 #### Actons
 - **-delete**
@@ -40,6 +48,8 @@ Search for files in a directory hierarchy
 `$ find DDEX/ -type f -name "*.xml" ! -name "BatchComplete_*.xml" ! -path "*/acknowledgments/*" -exec grep -lE 'MessageSchemaVersionId="ern/3(7|8|81)"' {} \;`
 `$ find . -type f -name ".DS_Store" -delte`
 
++++
+
 ## seed
 
 Stream editor for filtering and transforming text
@@ -48,6 +58,8 @@ Stream editor for filtering and transforming text
 $ echo "http://www.example.com/index.html" | sed 's_com/index_org/home_'
 http://www.example.org/home.html
 ```
+
++++
 
 ## awk
 
@@ -59,6 +71,8 @@ line1 was matched!
 line3 was matched!
 line10 was matched!
 ```
+
++++
 
 ## tar
 
