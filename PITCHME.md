@@ -1,6 +1,6 @@
 ## Introduction to using the command line interface terminal
-
-### Cheat sheet
+---
+## Cheat sheet
 
 https://duckduckgo.com/?q=bash+cheat+sheet
 
