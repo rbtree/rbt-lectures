@@ -2,8 +2,12 @@
 
 Execute a command as another user
 
-`$ sudo apt upgrade`
-`$ sudo -u user ls /Users/user/`
+```
+$ sudo apt upgrade
+```
+```
+$ sudo -u user ls /Users/user/
+```
 
 +++
 
@@ -45,8 +49,14 @@ Search for files in a directory hierarchy
 - **-okdir** *command {} ;*
 - **-printf** *format*
 
-`$ find DDEX/ -type f -name "*.xml" ! -name "BatchComplete_*.xml" ! -path "*/acknowledgments/*" -exec grep -lE 'MessageSchemaVersionId="ern/3(7|8|81)"' {} \;`
-`$ find . -type f -name ".DS_Store" -delte`
++++
+
+```
+$ find DDEX/ -type f -name "*.xml" ! -name "BatchComplete_*.xml" ! -path "*/acknowledgments/*" -exec grep -lE 'MessageSchemaVersionId="ern/3(7|8|81)"' {} \;
+```
+```
+$ find . -type f -name ".DS_Store" -delte
+```
 
 +++
 
@@ -78,7 +88,9 @@ line10 was matched!
 
 An archiving utility
 
-`$ tar --verbose --gzip --extract --file ~/Downloads/linux-4.10.7.tar.gz --directory /tmp/`
+```
+$ tar --verbose --gzip --extract --file ~/Downloads/linux-4.10.7.tar.gz --directory /tmp/
+```
 ```
 $ tar --verbose --bzip --create --file /tmp/archive.tar.bz ./file{1..10}.txt
 ./file1.txt

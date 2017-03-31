@@ -133,7 +133,9 @@ line1
 
 Read from standard input and write to standard output and files
 
-`echo 'nameserver 8.8.8.8' | sudo tee -a /etc/resolv.conf`
+```
+echo 'nameserver 8.8.8.8' | sudo tee -a /etc/resolv.conf
+```
 
 +++
 
