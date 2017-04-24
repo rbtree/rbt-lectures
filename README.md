@@ -1,39 +1,6 @@
-# Welcome to RBT lectures
-
-## Upcoming
-
-### AWS
+# AWS
 Date: **28 Apr 2017**
 
 Presenter: **Srđan Marković**
 
----
-
-## Previous
-
-### CLI
-Date: **31 Mar 2017**
-
-Presenter: **Miloš Micić**
-
-People: 18
-
-[Presentation](https://gitpitch.com/rbtree/rbt-lectures/2017-03-mm-cli)
-
-### Docker
-Date: **24 Mar 2017**
-
-Presenters: **Miloš Milošević & Aleksandar Mirilović**
-
-People: 21
-
-[Presentation](https://gitpitch.com/rbtree/rbt-lectures/2017-03-mmam-docker)
-
-### Git
-Date: **17 Mar 2017**
-
-Presenter: **Miloš Radić**
-
-People: 20
-
-[Presentation](https://gitpitch.com/rbtree/rbt-lectures/2016-03-mr-git)
+[Presentation](https://gitpitch.com/rbtree/rbt-lectures/2017-04-sm-aws)
