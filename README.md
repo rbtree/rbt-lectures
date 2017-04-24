@@ -2,7 +2,10 @@
 
 ## Upcoming
 
+### AWS
+Date: **28 Apr 2017**
 
+Presenter: **Srđan Marković**
 
 ---
 
@@ -11,7 +14,7 @@
 ### CLI
 Date: **31 Mar 2017**
 
-Presenter: **Milos Micic**
+Presenter: **Miloš Micić**
 
 People: 18
 
@@ -20,7 +23,7 @@ People: 18
 ### Docker
 Date: **24 Mar 2017**
 
-Presenters: **Milos Milosevic & Aleksandar Mirilovic**
+Presenters: **Miloš Milošević & Aleksandar Mirilović**
 
 People: 21
 
@@ -29,7 +32,7 @@ People: 21
 ### Git
 Date: **17 Mar 2017**
 
-Presenter: **Milos Radic**
+Presenter: **Miloš Radić**
 
 People: 20
 
