@@ -1,4 +1,4 @@
-# AWS
+# Amazon Web Services
 Date: **28 Apr 2017**
 
 Presenter: **Srđan Marković**
