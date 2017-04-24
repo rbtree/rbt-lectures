@@ -2,14 +2,20 @@
 
 ## Upcoming
 
-### CLI
-Date: **31 Mar 2017**
 
-Presenters: **Milos Micic**
 
 ---
 
 ## Previous
+
+### CLI
+Date: **31 Mar 2017**
+
+Presenter: **Milos Micic**
+
+People: 18
+
+[Presentation](https://gitpitch.com/rbtree/rbt-lectures/2017-03-mm-cli)
 
 ### Docker
 Date: **24 Mar 2017**
