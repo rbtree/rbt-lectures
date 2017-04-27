@@ -1,9 +1,15 @@
 ---
 
-# Introduction to Amazon Web Services for Developers
+### Introduction to Amazon Web Services for Developers
 #### Srđan Marković, CTO, Red Black Tree d.o.o. 
 
----?video=https://www.youtube.com/embed/V-FkalybggA
+---
+
+### Developers [Monkey Dance](http://knowyourmeme.com/memes/steve-ballmer-monkey-dance)
+
+![YouTube Video](https://www.youtube.com/embed/V-FkalybggA)
+
+at Microsoft's 25th Anniversary event in September 2000.
 
 +++
 
@@ -21,9 +27,9 @@
 
 #### The Web Application <!-- .element: class="fragment" -->
 
-- Software applications now run on a different computer continents away <!-- .element: class="fragment" -->
+- Software applications now run on a different computers, continents away <!-- .element: class="fragment" -->
 
-- User access them via HTTP protocol and interract through Web Browser <!-- .element: class="fragment" -->
+- User access them via HTTP protocol and interract through a Web Browser <!-- .element: class="fragment" -->
 
 --- 
 
