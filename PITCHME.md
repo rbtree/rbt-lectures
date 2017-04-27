@@ -3,11 +3,7 @@
 # Introduction to Amazon Web Services for Developers
 #### Srđan Marković, CTO, Red Black Tree d.o.o. 
 
----
-
-### Developers
-
-![YouTube Video](https://www.youtube.com/embed/V-FkalybggA)
+---?video=https://www.youtube.com/embed/V-FkalybggA
 
 +++
 
@@ -17,11 +13,11 @@
 
 - A collection of compiled lines of code running on a computer in front of the user <!-- .element: class="fragment" -->
 
+- With the introduction of the World Wide Web a new paradigm emerged <!-- .element: class="fragment" -->
+
 +++
 
 ### A New Paradigm
-
-- With the introduction of the World Wide Web a new paradigm emerged
 
 #### The Web Application <!-- .element: class="fragment" -->
 
