@@ -3,3 +3,4 @@ logo : http://rbt.rs/images/rbt_logo_160x110.png
 background-size : auto
 slide-number: true
 highlight : monokai
+footnote : "© 2017 Red Black Tree d.o.o."
