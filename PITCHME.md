@@ -5,13 +5,11 @@
 
 ---
 
-### How it seamed from my perspective?
-
-#### Developers [Monkey Dance](http://knowyourmeme.com/memes/steve-ballmer-monkey-dance)
+### How it seamed from my perspective? Developers [Monkey Dance](http://knowyourmeme.com/memes/steve-ballmer-monkey-dance)
 
 ![YouTube Video](https://www.youtube.com/embed/V-FkalybggA)
 
-* at Microsoft's 25th Anniversary event in September 2000.
+<span style="font-size:0.6em; color:gray">* at Microsoft's 25th Anniversary event in September 2000.</span>
 
 ---
 
@@ -30,6 +28,4 @@
 
 - Software applications now run on a different computers, continents away <!-- .element: class="fragment" -->
 - User access them via HTTP protocol and interract with them through their Web Browser <!-- .element: class="fragment" -->
-
---- 
 
