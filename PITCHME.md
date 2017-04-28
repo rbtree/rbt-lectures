@@ -5,20 +5,21 @@
 
 ---
 
-### Developers [Monkey Dance](http://knowyourmeme.com/memes/steve-ballmer-monkey-dance)
+### How it seamed from my perspective?
+
+#### Developers [Monkey Dance](http://knowyourmeme.com/memes/steve-ballmer-monkey-dance)
 
 ![YouTube Video](https://www.youtube.com/embed/V-FkalybggA)
 
-at Microsoft's 25th Anniversary event in September 2000.
+* at Microsoft's 25th Anniversary event in September 2000.
 
-+++
+---
 
 ### A New Paradigm
 
-#### What is the Application?
+#### What is an Application?
 
-- A collection of compiled lines of code running on a computer in front of the user <!-- .element: class="fragment" -->
-
+- > *Is a computer program designed to perform a group of coordinated functions, tasks, or activities for the benefit of the user (sitting by the computer)* <!-- .element: class="fragment" -->
 - With the introduction of the World Wide Web a new paradigm emerged <!-- .element: class="fragment" -->
 
 +++
@@ -28,11 +29,7 @@ at Microsoft's 25th Anniversary event in September 2000.
 #### The Web Application <!-- .element: class="fragment" -->
 
 - Software applications now run on a different computers, continents away <!-- .element: class="fragment" -->
-
-- User access them via HTTP protocol and interract through a Web Browser <!-- .element: class="fragment" -->
+- User access them via HTTP protocol and interract with them through their Web Browser <!-- .element: class="fragment" -->
 
 --- 
 
-### An Example
-
----
