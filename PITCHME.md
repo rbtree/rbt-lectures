@@ -1,3 +1,4 @@
 #HSLIDE
 
-## Welcome to RBT Lectures
+## Design Patterns
+#### Bojan Radovanovic
