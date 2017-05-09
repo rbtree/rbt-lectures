@@ -2,14 +2,22 @@
 
 ## Upcoming
 
-### AWS
-Date: **28 Apr 2017**
+### Design Patterns
+Date: **12 May 2017**
 
-Presenter: **Srđan Marković**
+Presenter: **Bojan Radovanović**
 
 ---
 
 ## Previous
+
+### AWS
+Date: **28 Apr 2017**
+
+Presenter: **Srđan Marković**
+People: 22
+
+[Presentation](https://gitpitch.com/rbtree/rbt-lectures/2017-04-sm-aws)
 
 ### CLI
 Date: **31 Mar 2017**
