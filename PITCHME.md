@@ -5,13 +5,21 @@
 
 ---
 
-### What are Design Patterns?
+### Design Patterns are...
 
-In software engineering, a software design pattern is a **general reusable solution to a commonly occurring problem** within a given context in software design. It is not a finished design that can be transformed directly into source or machine code. It is a **description or template for how to solve a problem** that can be used in many different situations. Design patterns are formalized best practices that the programmer can use to solve common problems when designing an application or system. (Wikipedia)
+In software engineering, a software design pattern is a **general reusable solution to a commonly occurring problem** within a given context in software design.
+
+It is a **description or template for how to solve a problem** that can be used in many different situations. Design patterns are **formalized best practices** that the programmer can use to solve common problems when designing an application or system. (Wikipedia)
 
 ---
 
-### History
+### Design Patterns are not...
+
+It is not a finished design that can be transformed directly into source or machine code.
+
+---
+
+### History of Design Patterns
 
 Patterns originated as an architectural concept by [Christopher Alexander](https://en.wikipedia.org/wiki/Christopher_Alexander). (Wikipedia)
 
@@ -19,7 +27,7 @@ Patterns originated as an architectural concept by [Christopher Alexander](https
 
 +++
 
-### History
+### History of Design Patterns
 
 In 1987, [Kent Beck](https://en.wikipedia.org/wiki/Kent_Beck) and [Ward Cunningham](https://en.wikipedia.org/wiki/Ward_Cunningham) began experimenting with the idea of applying patterns to programming – specifically pattern languages – and presented their results at the [OOPSLA](https://en.wikipedia.org/wiki/OOPSLA) conference that year. (Wikipedia)
 
