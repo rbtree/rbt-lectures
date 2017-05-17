@@ -7,7 +7,7 @@
 
 ### Design Patterns are...
 
-In software engineering, a software design pattern is a **general reusable solution to a commonly occurring problem** within a given context in software design.
+In software engineering, a software design pattern is a **general reusable solution to a commonly occurring problem** within a given context in software design. (Wikipedia)
 
 ---
 
@@ -19,23 +19,23 @@ It is a **description or template for how to solve a problem** that can be used 
 
 ### Design Patterns are not...
 
-It is not a **finished design** that can be transformed directly into source or machine code.
+It is not a **finished design** that can be transformed directly into source or machine code. (Wikipedia)
 
 ---
 
 ### History of Design Patterns
 
-Patterns originated as an architectural concept by [Christopher Alexander](https://en.wikipedia.org/wiki/Christopher_Alexander). (Wikipedia)
+Patterns originated as an **architectural concept** by [Christopher Alexander](https://en.wikipedia.org/wiki/Christopher_Alexander). (Wikipedia)
 
 ![Christopher Alexander](https://qph.ec.quoracdn.net/main-qimg-67fdf1509c381971a4c1816dfdfaf251.webp)
 
-+++
+---
 
 ### History of Design Patterns
 
 In 1987, [Kent Beck](https://en.wikipedia.org/wiki/Kent_Beck) and [Ward Cunningham](https://en.wikipedia.org/wiki/Ward_Cunningham) began experimenting with the idea of applying patterns to programming – specifically pattern languages – and presented their results at the [OOPSLA](https://en.wikipedia.org/wiki/OOPSLA) conference that year. (Wikipedia)
 
-+++
+---
 
 ### Gang of Four (GoF)
 
@@ -47,3 +47,23 @@ Design patterns gained popularity in computer science after the book [Design Pat
 
 ---
 
+### Classification
+
+There are three basic kinds of design patterns:
+* Creational
+* Structural
+* Behavioral
+
+---
+
+### Creational Design Patterns
+
+---
+
+### Structural Design Patterns
+
+---
+
+### Behavioral Design Patterns
+
+---
