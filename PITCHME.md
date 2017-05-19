@@ -29,8 +29,6 @@ Patterns originated as an **architectural concept** by [Christopher Alexander](h
 
 <img src="https://qph.ec.quoracdn.net/main-qimg-67fdf1509c381971a4c1816dfdfaf251.webp" alt="Christopher Alexander" width="300">
 
-![Christopher Alexander](https://qph.ec.quoracdn.net/main-qimg-67fdf1509c381971a4c1816dfdfaf251.webp)
-
 ---
 
 ### History of Design Patterns
@@ -144,3 +142,30 @@ Behavioral patterns are **used in communications between entities** and make it 
 * **Strategy** - Encapsulates an algorithm inside a class
 * **Template method** - Defer the exact steps of an algorithm to a subclass
 * **Visitor** - Defines a new operation to a class without change
+
+---
+
+### Abstract Factory Design Pattern
+
+#### Definition
+
+Provide an interface for creating families of related or dependent objects without specifying their concrete classes.
+
++++
+
+### Abstract Factory Design Pattern
+
+#### UML class diagram
+
+![Abstract Factory - UML class diagram](http://www.dofactory.com/images/diagrams/net/abstract.gif)
+
++++
+
+### Abstract Factory Design Pattern
+
+#### Participants
+* **AbstractFactory  (ContinentFactory)** - declares an interface for operations that create abstract products
+* **ConcreteFactory   (AfricaFactory, AmericaFactory)** - implements the operations to create concrete product objects
+* **AbstractProduct   (Herbivore, Carnivore)** - declares an interface for a type of product object
+* **Product  (Wildebeest, Lion, Bison, Wolf)** - defines a product object to be created by the corresponding concrete factory; implements the AbstractProduct interface
+* **Client  (AnimalWorld)** - uses interfaces declared by AbstractFactory and AbstractProduct classes
