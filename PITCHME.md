@@ -177,6 +177,22 @@ Provide an interface for creating families of related or dependent objects witho
 * **Product  (Wildebeest, Lion, Bison, Wolf)** - defines a product object to be created by the corresponding concrete factory; implements the AbstractProduct interface
 * **Client  (AnimalWorld)** - uses interfaces declared by AbstractFactory and AbstractProduct classes
 
++++
+
+### Abstract Factory Design Pattern
+
+#### Example
+
+This pattern is found in the sheet metal stamping equipment used in the manufacture of Japanese automobiles. The stamping equipment is an Abstract Factory which creates auto body parts. The same machinery is used to stamp right hand doors, left hand doors, right front fenders, left front fenders, hoods, etc. for different models of cars. Through the use of rollers to change the stamping dies, the concrete classes produced by the machinery can be changed within three minutes.
+
++++
+
+### Abstract Factory Design Pattern
+
+#### Example
+
+![Abstract Factory - Example](https://sourcemaking.com/files/v2/content/patterns/Abstract_Factory_example1.svg)
+
 ---
 
 ### Builder Design Pattern
@@ -210,6 +226,22 @@ Separate the construction of a complex object from its representation so that th
 
 * **Director  (Shop)** - constructs an object using the Builder interface
 * **Product  (Vehicle)** - represents the complex object under construction. ConcreteBuilder builds the product's internal representation and defines the process by which it's assembled; includes classes that define the constituent parts, including interfaces for assembling the parts into the final result
+
++++
+
+### Factory Method Design Pattern
+
+#### Example
+
+This pattern is used by fast food restaurants to construct children's meals. Children's meals typically consist of a main item, a side item, a drink, and a toy (e.g., a hamburger, fries, Coke, and toy dinosaur). Note that there can be variation in the content of the children's meal, but the construction process is the same. Whether a customer orders a hamburger, cheeseburger, or chicken, the process is the same. The employee at the counter directs the crew to assemble a main item, side item, and toy. These items are then placed in a bag. The drink is placed in a cup and remains outside of the bag. This same process is used at competing restaurants.
+
++++
+
+### Factory Method Design Pattern
+
+#### Example
+
+![Factory Method - Example](https://sourcemaking.com/files/v2/content/patterns/Builder_example1.svg)
 
 ---
 
@@ -245,6 +277,22 @@ Define an interface for creating an object, but let subclasses decide which clas
 * **Creator  (Document)** - declares the factory method, which returns an object of type Product. Creator may also define a default implementation of the factory method that returns a default ConcreteProduct object; may call the factory method to create a Product object
 * **ConcreteCreator  (Report, Resume)** - overrides the factory method to return an instance of a ConcreteProduct
 
++++
+
+### Factory Method Design Pattern
+
+#### Example
+
+Manufacturers of plastic toys process plastic molding powder, and inject the plastic into molds of the desired shapes. The class of toy (car, action figure, etc.) is determined by the mold.
+
++++
+
+### Factory Method Design Pattern
+
+#### Example
+
+![Factory Method - Example](https://sourcemaking.com/files/v2/content/patterns/Factory_Method_example1.svg)
+
 ---
 
 ### Prototype Design Pattern
@@ -271,6 +319,22 @@ Specify the kind of objects to create using a prototypical instance, and create 
 * **ConcretePrototype  (Color)** - implements an operation for cloning itself
 * **Client  (ColorManager)** - creates a new object by asking a prototype to clone itself
 
++++
+
+### Prototype Design Pattern
+
+#### Example
+
+The mitotic division of a cell - resulting in two identical cells - is an example of a prototype that plays an active role in copying itself and thus, demonstrates the Prototype pattern. When a cell splits, two cells of identical genotype result. In other words, the cell clones itself.
+
++++
+
+### Prototype Design Pattern
+
+#### Example
+
+![Prototype - Example](https://sourcemaking.com/files/v2/content/patterns/Prototype_example1.svg)
+
 ---
 
 ### Singleton Design Pattern
@@ -294,3 +358,19 @@ Ensure a class has only one instance and provide a global point of access to it.
 #### Participants
 
 * **Singleton   (LoadBalancer)** - defines an Instance operation that lets clients access its unique instance. Instance is a class operation; responsible for creating and maintaining its own unique instance
+
++++
+
+### Singleton Design Pattern
+
+#### Example
+
+The office of the President of the United States is a Singleton. The United States Constitution specifies the means by which a president is elected, limits the term of office, and defines the order of succession. As a result, there can be at most one active president at any given time. Regardless of the personal identity of the active president, the title, "The President of the United States" is a global point of access that identifies the person in the office.
+
++++
+
+### Singleton Design Pattern
+
+#### Example
+
+![Singleton - Example](https://sourcemaking.com/files/v2/content/patterns/Singleton_example1.svg)
