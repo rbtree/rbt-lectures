@@ -47,6 +47,18 @@ Design patterns gained popularity in computer science after the book [Design Pat
 
 ---
 
+### Benefits of Design Patterns
+
+First, they provide you with a **way to solve issues** related to software development using a **proven solution**. The solution facilitates the development of highly cohesive modules with minimal coupling. They **isolate the variability** that may exist in the system requirements, making the overall system **easier to understand and maintain**.
+
++++
+
+### Benefits of Design Patterns
+
+Second, design patterns make **communication between designers more efficient**. Software professionals can immediately picture the high-level design in their heads when they refer the name of the pattern used to solve a particular issue when discussing system design.
+
+---
+
 ### Classification
 
 There are three basic kinds of design patterns:
