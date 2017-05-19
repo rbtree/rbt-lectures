@@ -27,7 +27,7 @@ It is not a **finished design** that can be transformed directly into source or 
 
 Patterns originated as an **architectural concept** by [Christopher Alexander](https://en.wikipedia.org/wiki/Christopher_Alexander) (1977/79) - architect and author of [A Pattern Language: Towns, Buildings, Construction](https://en.wikipedia.org/wiki/A_Pattern_Language). (Wikipedia)
 
-<img src="https://qph.ec.quoracdn.net/main-qimg-67fdf1509c381971a4c1816dfdfaf251.webp" alt="Christopher Alexander" width="250">
+<img src="https://qph.ec.quoracdn.net/main-qimg-67fdf1509c381971a4c1816dfdfaf251.webp" alt="Christopher Alexander" width="300">
 
 ![Christopher Alexander](https://qph.ec.quoracdn.net/main-qimg-67fdf1509c381971a4c1816dfdfaf251.webp)
 
@@ -43,7 +43,7 @@ In 1987, [Kent Beck](https://en.wikipedia.org/wiki/Kent_Beck) and [Ward Cunningh
 
 Design patterns gained popularity in computer science after the book [Design Patterns: Elements of Reusable Object-Oriented Software](https://en.wikipedia.org/wiki/Design_Patterns_(book)) was published in 1994 by the so-called "Gang of Four" (Gamma et al.), which is frequently abbreviated as "GoF". (Wikipedia)
 
-![GoF](https://qph.ec.quoracdn.net/main-qimg-31cfec54edf396a5f0f526e823edb2e7.webp)
+<img src="https://qph.ec.quoracdn.net/main-qimg-31cfec54edf396a5f0f526e823edb2e7.webp" alt="GoF" width="400">
 
 ---
 
