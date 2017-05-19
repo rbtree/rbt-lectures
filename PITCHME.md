@@ -229,7 +229,7 @@ Separate the construction of a complex object from its representation so that th
 
 +++
 
-### Factory Method Design Pattern
+### Builder Design Pattern
 
 #### Example
 
@@ -237,11 +237,11 @@ This pattern is used by fast food restaurants to construct children's meals. Chi
 
 +++
 
-### Factory Method Design Pattern
+### Builder Design Pattern
 
 #### Example
 
-![Factory Method - Example](https://sourcemaking.com/files/v2/content/patterns/Builder_example1.svg)
+![Builder - Example](https://sourcemaking.com/files/v2/content/patterns/Builder_example1.svg)
 
 ---
 
