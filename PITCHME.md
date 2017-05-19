@@ -167,5 +167,42 @@ Provide an interface for creating families of related or dependent objects witho
 * **AbstractFactory  (ContinentFactory)** - declares an interface for operations that create abstract products
 * **ConcreteFactory   (AfricaFactory, AmericaFactory)** - implements the operations to create concrete product objects
 * **AbstractProduct   (Herbivore, Carnivore)** - declares an interface for a type of product object
++++
+
+### Abstract Factory Design Pattern
+
+#### Participants
 * **Product  (Wildebeest, Lion, Bison, Wolf)** - defines a product object to be created by the corresponding concrete factory; implements the AbstractProduct interface
 * **Client  (AnimalWorld)** - uses interfaces declared by AbstractFactory and AbstractProduct classes
+
+---
+
+### Builder Design Pattern
+
+#### Definition
+
+Separate the construction of a complex object from its representation so that the same construction process can create different representations.
+
++++
+
+### Builder Design Pattern
+
+#### UML class diagram
+
+![Builder - UML class diagram](http://www.dofactory.com/images/diagrams/net/builder.gif)
+
++++
+
+### Builder Design Pattern
+
+#### Participants
+* **Builder  (VehicleBuilder)** - specifies an abstract interface for creating parts of a Product object
+* **ConcreteBuilder  (MotorCycleBuilder, CarBuilder, ScooterBuilder)** - constructs and assembles parts of the product by implementing the Builder interface; defines and keeps track of the representation it creates; provides an interface for retrieving the product
+
++++
+
+### Builder Design Pattern
+
+#### Participants
+* **Director  (Shop)** - constructs an object using the Builder interface
+* **Product  (Vehicle)** - represents the complex object under construction. ConcreteBuilder builds the product's internal representation and defines the process by which it's assembled; includes classes that define the constituent parts, including interfaces for assembling the parts into the final result
