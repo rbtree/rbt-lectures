@@ -27,7 +27,9 @@ It is not a **finished design** that can be transformed directly into source or 
 
 Patterns originated as an **architectural concept** by [Christopher Alexander](https://en.wikipedia.org/wiki/Christopher_Alexander) (1977/79) - architect and author of [A Pattern Language: Towns, Buildings, Construction](https://en.wikipedia.org/wiki/A_Pattern_Language). (Wikipedia)
 
-![Christopher Alexander](https://qph.ec.quoracdn.net/main-qimg-67fdf1509c381971a4c1816dfdfaf251.webp =250x)
+<img src="https://qph.ec.quoracdn.net/main-qimg-67fdf1509c381971a4c1816dfdfaf251.webp" alt="Christopher Alexander" width="250">
+
+![Christopher Alexander](https://qph.ec.quoracdn.net/main-qimg-67fdf1509c381971a4c1816dfdfaf251.webp)
 
 ---
 
