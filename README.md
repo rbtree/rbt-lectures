@@ -1,7 +1,7 @@
-# Design Patterns
+# Redux
 
-Date: **19 May 2017**
+Date: **26 May 2017**
 
-Presenter: **Bojan Radovanović**
+Presenter: **Filip Jovakarić**
 
-[Presentation](https://gitpitch.com/rbtree/rbt-lectures/2017-05-br-design-patterns)
+[Presentation](https://gitpitch.com/rbtree/rbt-lectures/2017-05-fj-redux)
