@@ -1,6 +1,6 @@
 # Design Patterns
 
-Date: **12 May 2017**
+Date: **19 May 2017**
 
 Presenter: **Bojan Radovanović**
 
