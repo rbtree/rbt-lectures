@@ -21,10 +21,12 @@
 - That state is read-only
 - All changes to the application state are made by pure functions
 
++++
+
 ### Usage
 
 <img src="/images/vue.png" width="100" style="border:none; box-shadow:none;">
-<img src="/images/react.svg" width="150" style="border:none; box-shadow:none;">
+<img src="/images/react.png" width="150" style="border:none; box-shadow:none;">
 <img src="/images/angular2.png" width="100" style="border:none; box-shadow:none;">
 
 ---
@@ -35,7 +37,7 @@
 
 ### Unidirectional Dataflow
 
-<img src="/images/redux.png" width="100" style="border:none;">
+<img src="/images/redux.png" width="60%" style="border:none; box-shadow:none;">
 
 ---
 
