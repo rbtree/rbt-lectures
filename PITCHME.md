@@ -39,6 +39,48 @@
 
 <img src="/images/data-flow.png" width="60%" style="border:none; box-shadow:none;">
 
++++
+
+### Actions / Action Creators
+
+<img src="/images/actions.png" width="90%" style="border:none; box-shadow:none;">
+
++++
+
+### Actions / Action Creators
+
+- Code snippet
+
++++
+
+### Store
+
+<img src="/images/store.png" width="90%" style="border:none; box-shadow:none;">
+
++++
+
+### Reducers
+
+<img src="/images/reducers.png" width="90%" style="border:none; box-shadow:none;">
+
++++
+
+### Reducers
+
+- Code snippet
+
++++
+
+### Store
+
+<img src="/images/store.png" width="90%" style="border:none; box-shadow:none;">
+
++++
+
+### How it all fits together
+
+<img src="/images/how-it-works.png" width="90%" style="border:none; box-shadow:none;">
+
 ---
 
 ### Demo
