@@ -1,6 +1,6 @@
 #HSLIDE
 
-<img src="/images/redux.png" width="100" style="border:none;">
+<img src="/images/redux.png" width="100" style="border:none; box-shadow:none;">
 
 ## Redux
 #### Filip Jovakaric
@@ -11,6 +11,7 @@
 
 - Redux is a predictable state container for JavaScript apps.
 - It’s an application data-flow architecture, rather than a traditional library or a framework like Underscore.js and AngularJS
+- It was created by Dan Abramov
 
 +++
 
@@ -20,6 +21,12 @@
 - That state is read-only
 - All changes to the application state are made by pure functions
 
+### Usage
+
+<img src="/images/vue.png" width="100" style="border:none; box-shadow:none;">
+<img src="/images/react.svg" width="150" style="border:none; box-shadow:none;">
+<img src="/images/angular2.png" width="100" style="border:none; box-shadow:none;">
+
 ---
 
 ### How did we get to Redux?
@@ -27,6 +34,8 @@
 ---
 
 ### Unidirectional Dataflow
+
+<img src="/images/redux.png" width="100" style="border:none;">
 
 ---
 
