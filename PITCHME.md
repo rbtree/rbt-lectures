@@ -1,6 +1,6 @@
 #HSLIDE
 
-<img src="/images/redux.png" width="30">
+<img src="/images/redux.png" width="100" style="border:none;">
 
 ## Redux
 #### Filip Jovakaric
