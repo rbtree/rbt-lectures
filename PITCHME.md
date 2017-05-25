@@ -17,6 +17,15 @@
 
 +++
 
+### Motivation behind creating Redux
+
+- JavaScript single-page applications must manage more state than ever before
+- New requirements are always coming
+- Redux attempts to make state mutations predictable
+- Easier debugging
+
++++
+
 ### 3 core concepts
 
 - There is a single source of truth for your entire application state
