@@ -43,7 +43,7 @@
 
 ### Actions / Action Creators
 
-<img src="/images/actions.png" width="90%" style="border:none; box-shadow:none;">
+<img src="/images/actions.png" width="800" style="border:none; box-shadow:none;">
 
 +++
 
@@ -55,25 +55,19 @@
 
 ### Store
 
-<img src="/images/store.png" width="90%" style="border:none; box-shadow:none;">
+<img src="/images/store.png" width="800" style="border:none; box-shadow:none;">
 
 +++
 
 ### Reducers
 
-<img src="/images/reducers.png" width="90%" style="border:none; box-shadow:none;">
+<img src="/images/reducers.png" width="800" style="border:none; box-shadow:none;">
 
 +++
 
 ### Reducers
 
 - Code snippet
-
-+++
-
-### Store
-
-<img src="/images/store.png" width="90%" style="border:none; box-shadow:none;">
 
 +++
 
