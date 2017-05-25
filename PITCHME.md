@@ -43,25 +43,39 @@
 
 ### Actions / Action Creators
 
-<img src="/images/actions.png" width="800" style="border:none; box-shadow:none;">
+<img src="/images/actions.png" width="600" style="border:none; box-shadow:none;">
 
 +++
 
 ### Actions / Action Creators
 
-- Code snippet
+```javascript
+export function incrementCounter(step) {
+    return {
+        type: 'INCREMENT_COUNTER',
+        step: step || 1,
+    }
+}
+
+export function decrementCounter(step) {
+    return {
+        type: 'DECREMENT_COUNTER',
+        step: step || 1,
+    }
+}
+```
 
 +++
 
 ### Store
 
-<img src="/images/store.png" width="800" style="border:none; box-shadow:none;">
+<img src="/images/store.png" width="600" style="border:none; box-shadow:none;">
 
 +++
 
 ### Reducers
 
-<img src="/images/reducers.png" width="800" style="border:none; box-shadow:none;">
+<img src="/images/reducers.png" width="600" style="border:none; box-shadow:none;">
 
 +++
 
@@ -84,5 +98,9 @@
 ### Testability of Redux
 
 ---
+
+### Resources
+
++++
 
 ### Thank You!
