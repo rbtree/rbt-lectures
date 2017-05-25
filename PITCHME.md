@@ -180,5 +180,5 @@ export default function counterReducer($$state = initialState(), action) {
 
 +++
 
-<img src="/images/ja.gif" width="300" style="border:none; box-shadow:none;">
+<img src="/images/ja.gif" width="250" style="border:none; box-shadow:none;">
 ### Thank You!
