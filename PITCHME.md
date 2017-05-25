@@ -67,6 +67,24 @@ export function decrementCounter(step) {
 
 +++
 
+### Actions / Action Creators
+
+```javascript
+export function searchMovies(movieName) {
+    return (dispatch) => {
+        dispatch(beginAjaxCall());
+        moviesApi
+            .search(movieName)
+            .then((result) => {
+                dispatch(searchMoviesSuccess(result.data.Search));
+            })
+            .catch((err) => {
+                dispatch(ajaxCallError(err));
+            });
+    }
+}
+```
+
 ### Store
 
 <img src="/images/store.png" width="600" style="border:none; box-shadow:none;">
@@ -81,7 +99,32 @@ export function decrementCounter(step) {
 
 ### Reducers
 
-- Code snippet
+```javascript
+function initialState() {
+    return {
+        value: 0,
+    };
+}
+
+export default function counterReducer($$state = initialState(), action) {
+
+    switch (action.type) {
+
+    case actionTypes.INCREMENT_COUNTER:
+        return {
+            value: $$state.value + action.step,
+        };
+
+    case actionTypes.DECREMENT_COUNTER:
+        return {
+            value: $$state.value - action.step,
+        };
+
+    default:
+        return { ...$$state };
+    }
+}
+```
 
 +++
 
