@@ -31,10 +31,6 @@
 
 ---
 
-### How did we get to Redux?
-
----
-
 ### Unidirectional Dataflow
 
 <img src="/images/data-flow.png" width="60%" style="border:none; box-shadow:none;">
@@ -110,12 +106,12 @@ export default function counterReducer($$state = initialState(), action) {
 
     switch (action.type) {
 
-    case actionTypes.INCREMENT_COUNTER:
+    case 'INCREMENT_COUNTER':
         return {
             value: $$state.value + action.step,
         };
 
-    case actionTypes.DECREMENT_COUNTER:
+    case 'DECREMENT_COUNTER':
         return {
             value: $$state.value - action.step,
         };
@@ -143,6 +139,13 @@ export default function counterReducer($$state = initialState(), action) {
 ---
 
 ### Resources
+
+- [A Cartoon Intro to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6)
+- [The Evolution of Flux Frameworks](https://medium.com/@dan_abramov/the-evolution-of-flux-frameworks-6c16ad26bb31)
+- [Redux Docs](http://redux.js.org/)
+- [Redux Step by Step: A Simple and Robust Workflow for Real Life Apps](https://hackernoon.com/redux-step-by-step-a-simple-and-robust-workflow-for-real-life-apps-1fdf7df46092)
+- [Redux · An Introduction](https://www.smashingmagazine.com/2016/06/an-introduction-to-redux/)
+- [Getting Started with Redux: An Intro](https://scotch.io/bar-talk/getting-started-with-redux-an-intro)
 
 +++
 
