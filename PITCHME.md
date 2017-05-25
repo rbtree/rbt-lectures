@@ -29,6 +29,18 @@
 <img src="/images/react.png" width="250" style="border:none; box-shadow:none;">
 <img src="/images/angular2.png" width="150" style="border:none; box-shadow:none;">
 
++++
+
+### Alternatives for Redux
+
+- [Facebook Flux](https://github.com/facebook/flux)
+- [MobX](https://github.com/mobxjs/mobx)
+- [Flummox](https://github.com/acdlite/flummox)
+- [Alt](https://github.com/goatslacker/alt)
+- [Reflux](https://github.com/voronianski/flux-comparison/tree/master/reflux)
+- [Fluxxor](https://github.com/voronianski/flux-comparison/tree/master/fluxxor)
+- more than 10 others...
+
 ---
 
 ### Unidirectional Dataflow
@@ -80,6 +92,8 @@ export function searchMovies(movieName) {
     }
 }
 ```
+
++++
 
 ### Store
 
@@ -135,6 +149,12 @@ export default function counterReducer($$state = initialState(), action) {
 ---
 
 ### Testability of Redux
+
+- Redux apps are easy for testing
+- Reducers are pure functions
+- Little or no mocking is needed
+- Basic Actions return plain objects
+- Async Actions need some levels of store mocking
 
 ---
 
