@@ -11,6 +11,8 @@
 
 - Redux is a predictable state container for JavaScript apps.
 - It’s an application data-flow architecture, rather than a traditional library or a framework like Underscore.js and AngularJS
+- 30+ k GitHub stars
+- 2.3+ million downloads in the last month on npm
 - It was created by Dan Abramov
 
 +++
@@ -33,12 +35,12 @@
 
 ### Alternatives for Redux
 
-- [Facebook Flux](https://github.com/facebook/flux)
-- [MobX](https://github.com/mobxjs/mobx)
-- [Flummox](https://github.com/acdlite/flummox)
-- [Alt](https://github.com/goatslacker/alt)
-- [Reflux](https://github.com/voronianski/flux-comparison/tree/master/reflux)
-- [Fluxxor](https://github.com/voronianski/flux-comparison/tree/master/fluxxor)
+- [Facebook Flux](https://github.com/facebook/flux) - 13k stars on GitHub
+- [MobX](https://github.com/mobxjs/mobx) - 9k stars on GitHub
+- [Reflux](https://github.com/reflux/refluxjs) - 5k stars on GitHub
+- [Alt](https://github.com/goatslacker/alt) - 3k stars on GitHub
+- [Flummox](https://github.com/acdlite/flummox) - 1.5k stars on GitHub
+- [Fluxxor](https://github.com/BinaryMuse/fluxxor) - 1.5k stars on GitHub
 - more than 10 others...
 
 ---
