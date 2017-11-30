@@ -12,11 +12,11 @@ Boki i Mixa
 
 ---
 
-### [git-flow](https://danielkummer.github.io/git-flow-cheatsheet/)
+## [git-flow](https://danielkummer.github.io/git-flow-cheatsheet/)
 
-# +
+## +
 
-### [pull request](https://www.atlassian.com/git/tutorials/making-a-pull-request/)
+## [pull request](https://www.atlassian.com/git/tutorials/making-a-pull-request/)
 
 ---
 
