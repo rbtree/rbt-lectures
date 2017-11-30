@@ -46,3 +46,10 @@ Date: **17 Mar 2017**
 Presenter: **Miloš Radić**
 
 [Presentation](https://gitpitch.com/rbtree/rbt-lectures/2016-03-mr-git)
+
+### Workflows
+Date: **1 Dec 2017**
+
+Presenters: **Bojan Radovanović & Miloš Milošević**
+
+[Presentation](https://gitpitch.com/rbtree/rbt-lectures/2017-12-brmm-workflows)
