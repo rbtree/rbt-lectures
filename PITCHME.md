@@ -6,6 +6,8 @@ Boki i Mixa
 
 ## Issue workflow
 
+![Flowchart](assets/issue-flow.jpg)
+
 ---
 
 ## Git workflow
