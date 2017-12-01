@@ -4,3 +4,4 @@ background-size : auto
 slide-number: true
 highlight : monokai
 footnote : "© 2017 Red Black Tree d.o.o."
+theme-override : assets/css/PITCHME.css
